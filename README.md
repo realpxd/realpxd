@@ -1,4 +1,4 @@
-<img src="icon.png alt="Logo" >
+<img src="https://raw.githubusercontent.com/naman77s/naman77s/main/icon-clean.png" alt="Logo" >
 <h2> So, I am ProgrammerXD aka Naman Saini </h2><br>
 <h3> Here are some basic things about me </h3>
 <a href="https://programmerxd.in"> <img src="https://img.shields.io/badge/Official_Website-ProgrammerXD-orange" ></a> <br>
