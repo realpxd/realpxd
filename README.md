@@ -1,5 +1,5 @@
 
-<a href="https://github.com/users/naman77s/naman77s/main/icon.png"><img src="https://raw.githubusercontent.com/naman77s/naman77s/main/icon-clean.png" alt="ProgrammerXD Logo" ></a>
+<a href="https://github.com/naman77s/naman77s/blob/main/icon.png"><img src="https://raw.githubusercontent.com/naman77s/naman77s/main/icon-clean.png" alt="ProgrammerXD Logo" ></a>
 
 <h2> So, I am ProgrammerXD aka Naman Saini </h2><br>
 
