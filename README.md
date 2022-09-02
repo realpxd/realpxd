@@ -4,7 +4,7 @@
 <h2> So, I am ProgrammerXD aka Naman Saini </h2><br>
 
 <h3> Here are some basic things about me </h3>
-<spam>🖤18 - Hindu - Indian - Web Dev🖤<br><a style="color:white;" href="#contact" >✨I would like to talk about our uniques</a></span><br><br>
+<spam>🖤18 - Sanatani - Indian - Web Dev🖤<br><a style="color:white;" href="#contact" >✨I would like to talk about our uniques</a></span><br><br>
 
 <a href="https://programmerxd.in"> <img src="https://img.shields.io/badge/Official_Website-ProgrammerXD.in-orange" ></a> <br>
 <a href="https://programmerxd.in/Certificates.html"> <img src="https://img.shields.io/badge/Certificates-ProgrammerXD-blue" ></a>
