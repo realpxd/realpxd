@@ -1,9 +1,9 @@
 
 <a href="https://github.com/naman77s/naman77s/blob/main/icon.png"><img src="https://raw.githubusercontent.com/naman77s/naman77s/main/icon-clean.png" alt="ProgrammerXD Logo" ></a>
 
-<h2> So, I am ProgrammerXD aka Naman Saini </h2><br>
+<h2> Heya, I am ProgrammerXD aka Naman Saini </h2><br>
 
-<h3> Here are some basic things about me </h3>
+<h3> Here are some basic info. about me </h3>
 <spam>🖤19 - Sanatani - Indian - Web Dev🖤<br><a style="color:white;" href="#contact" >✨I would like to talk about our uniques</a></span><br><br>
 
 <a href="https://programmerxd.in"> <img src="https://img.shields.io/badge/Official_Website-ProgrammerXD.in-orange" ></a> <br>
