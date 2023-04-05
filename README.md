@@ -1,25 +1,33 @@
-
-<a href="https://github.com/realpxd/realpxd/blob/main/icon.png"><img src="https://raw.githubusercontent.com/realpxd/realpxd/main/icon-clean.png" alt="ProgrammerXD Logo" ></a>
+<img src="https://raw.githubusercontent.com/realpxd/realpxd/main/icon-clean.png" alt="ProgrammerXD Logo" >
 
 <h2> Heya, I am ProgrammerXD aka Naman Saini </h2><br>
 
-<h3> Here are some basic info. about me </h3>
-<spam>🖤19 - Sanatani - Indian - Web Dev🖤<br><a style="color:white;" href="#contact" >✨I would like to talk about our uniques</a></span><br><br>
+<h3> About Me 👤 </h3>
 
-<a href="https://realpxd.github.io"> <img src="https://img.shields.io/badge/Official_Website-ProgrammerXD.in-orange" ></a> <br>
-<a href="https://realpxd.github.io/ProgrammerXD/Certificates.html"> <img src="https://img.shields.io/badge/Certificates-ProgrammerXD-blue" ></a>
-<a href="https://www.linkedin.com/in/programmerxd"> <img src="https://img.shields.io/badge/LinkedIN-Hire_me-blue" ></a>
+<span>
+I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes.
+<br><br>
+Sanatani 🚩 <3
+</span><br><br>
+
+<a href="https://realpxd.github.io"> <img src="https://img.shields.io/badge/Portfolio-PXD-orange" ></a>
+<a href="https://realpxd.github.io/ProgrammerXD/Certificates.html"> <img src="https://img.shields.io/badge/Certificates-Check_Out-blue" ></a><br>
+<a href="https://www.linkedin.com/in/programmerxd"> <img src="https://img.shields.io/badge/Linkedin-Visit_Profile-blue" ></a>
+<br><br>
+<a style="color:white;" href="#contact" >
+✨I would like to talk about our uniques
+</a>
 <br><br><br>
 
 
-<h4> MY PROJECTS </h4>
+<h3> Projects 💻 </h3>
 <a href="https://realpxd.github.io/Instagram-Clone-Beta"> <img src="https://img.shields.io/badge/Realtime_Chat_App-Instagram_Clone-orange" ></a><br>
-<a href="https://realpxd.github.io/Squid-Game"> <img src="https://img.shields.io/badge/Play_Games-Squid_game-orange" ></a>
-<a href="https://realpxd.github.io/ProgrammerXD/Musics"> <img src="https://img.shields.io/badge/Music_Playlist-Play_now-orange" ></a>
+<a href="https://realpxd.github.io/Squid-Game"> <img src="https://img.shields.io/badge/Play-Squid_Game-orange" ></a>
+<a href="https://realpxd.github.io/ProgrammerXD/ProgrammerXD/Rocket-Doge"> <img src="https://img.shields.io/badge/Play-Rocket_Doge-orange" ></a>
 <br><br><br>
 
 
-<h4> Live stats from github </h4>
+<h3> Github Stats ◻️ </h3>
 	<a href="https://github.com/naman77s">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=realpxd&show_icons=true&theme=radical" alt="Overall Stats" />
 	</a><br><br>
@@ -28,12 +36,17 @@
 	</a><br><br>
 
 
-<h2 id="contact" > Reach me >> </h2> 
-➖ <a href="https://t.me/DamnNaman"> <img src="https://img.shields.io/badge/TELEGRAM-ProgrammerXD-orange" ></a><br>
-➖ <a href="https://twitter.com/PXD_Officials"> <img src="https://img.shields.io/badge/TWITTER-PXD_Officials-orange" ></a><br>
-➖ <a href="https://in.linkedin.com/programmerxd"> <img src="https://img.shields.io/badge/LinkedIN.com-ProgrammerXD-brown" ></a><br>
-➖ <a href="https://youtube.com/channel/UCTlEvNf_UWq2aoq8-XFIYIQ"> <img src="https://img.shields.io/badge/YOUTUBE-Little_Programmer-orange" ></a>
+<h2 id="contact" > Reach me 💬 </h2> 
+➖ <a href="https://t.me/DamnNaman"> <img src="https://img.shields.io/badge/DamnNaman-Telegram-orange" ></a><br>
+➖ <a href="https://twitter.com/PXD_Officials"> <img src="https://img.shields.io/badge/PXD_Officials-Twitter-orange" ></a><br>
+➖ <a href="https://in.linkedin.com/programmerxd"> <img src="https://img.shields.io/badge/programmerxd-Linkedin-brown" ></a><br>
+➖ <a href="https://youtube.com/channel/UCTlEvNf_UWq2aoq8-XFIYIQ"> <img src="https://img.shields.io/badge/PXD-Youtube-orange" ></a>
 
+---
+[![](https://visitcount.itsvg.in/api?id=realpxd&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ProgrammerXD) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ProgrammerXD) 
 
 <!--
 <p> Thanks for comming :) </p> 
