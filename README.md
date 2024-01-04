@@ -1,7 +1,6 @@
-<h1> Hey there, I am ProgrammerXD aka Naman Saini </h1>
-<br>
+<!--<h2> Hey there, I am ProgrammerXD aka Naman Saini </h2>-->
 
-<h2> About Me 👤 </h2>
+<h1> About Me 👤 </h1>
 
 <span>
   I am a positive, enthusiastic and competent Software Developer who, over the years, has built up a diverse range of skills, qualities and attributes to develop effective applications :).
@@ -53,12 +52,23 @@
 
 <h2> Github Stats ◻️ </h2>
 
+<a  href="https://github.com/naman77s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realpxd&layout=compact&theme=radical" alt="Languages Stats" />
+</a>
+<br>
+<br>
 <a href="https://github.com/naman77s">
   <img align="center" src="https://github-readme-stats-git-addpercentilerankicon-rickstaa.vercel.app/api?username=realpxd&show_icons=true&rank_icon=percentile&theme=radical" alt="Overall Stats">
 </a>
 <br><br>
 <a  href="https://github.com/naman77s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realpxd&layout=compact&theme=radical" alt="Languages Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realpxd&theme=dark&hide_border=false" alt="Languages Stats" />
+</a>
+<br>
+<br>
+<h2> Top Contributed Repo 🔝 </h2>
+<a  href="https://github.com/naman77s">
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=realpxd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Languages Stats" />
 </a>
 <br>
 <br>
