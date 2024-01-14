@@ -7,7 +7,7 @@
   <br>
 </span>
 <h2> Socials 🌐 </h2>
-<a href="https://twitter.com/PXD_Officials">
+<a href="https://twitter.com/dotpxd">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white">
 </a>
 <a href="https://instagram.com/programmerxd">
