@@ -52,17 +52,20 @@
 
 <h2> Github Stats ◻️ </h2>
 
-<a  href="https://github.com/realpxd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realpxd&layout=compact&theme=radical" alt="Languages Stats" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realpxd&theme=radical" />
 </a>
 <br>
 <br>
 <a href="https://github.com/realpxd">
-  <img align="center" src="https://github-readme-stats-git-addpercentilerankicon-rickstaa.vercel.app/api?username=realpxd&show_icons=true&rank_icon=percentile&theme=radical" alt="Overall Stats">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=realpxd&theme=tokyonight" alt="Overall Stats" />
+</a>
+<a  href="https://github.com/realpxd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realpxd&layout=compact&theme=radical" alt="Languages Stats" />
 </a>
 <br><br>
 <a  href="https://github.com/realpxd">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realpxd&theme=dark&hide_border=false" alt="Languages Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realpxd&theme=dark&hide_border=false" alt="Contributions Stats" />
 </a>
 <br>
 <br>
