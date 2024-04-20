@@ -2,7 +2,7 @@
 
 I am a positive, enthusiastic and passionate Software Developer who, over the years, has built up a diverse range of skills, qualities and attributes to develop effective applications :).  
 
-<h2> Connect with me 🌐 </h2>
+<!--<h2> Connect with me 🌐 </h2>
 
 <a href="https://twitter.com/dotpxd"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://instagram.com/programmerxd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
