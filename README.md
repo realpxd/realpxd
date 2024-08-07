@@ -1,6 +1,6 @@
 <h1> About Me 👀 </h1>
 
-I am a positive, enthusiastic and passionate Software Developer who, over the years, has built up a diverse range of skills, qualities and attributes to develop effective applications :).  
+Hi!
 
 <!--<h2> Connect with me 🌐 </h2>
 
