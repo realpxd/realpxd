@@ -1,7 +1,11 @@
 <h1> About Me 👀 </h1>
 
 Hi!
+- 🌱 I’m currently learning **react and ruby**
 
+- 👯 I’m looking to collaborate on **cool projects**
+
+- ⚡ Fun fact **i love burgers**
 <!--<h2> Connect with me 🌐 </h2>
 
 <a href="https://twitter.com/dotpxd"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
@@ -36,10 +40,9 @@ Hi!
 <table>
   <tr>
     <td><a href="https://github.com/realpxd"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=realpxd&theme=tokyonight" width="380" alt="Overall Stats"></a></td>
-    <td><a href="https://github.com/realpxd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=realpxd&theme=tokyonight&hide_border=true" width="570" alt="Contributions Stats"></a></td>
+    <td><a href="https://github.com/realpxd"><img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=realpxd&theme=tokyonight&hide_border=true" width="570" alt="Contributions Stats"></a></td>
   </tr>
 </table>
-
 
 <!--<h1> Top Contributed Repo 🔝 </h1>
 
@@ -70,7 +73,8 @@ Hi!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
 <hr/>
 
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+<!-- <img src="https://komarev.com/ghpvc/?username=realpxd&style=plastic" alt="profile-views"> -->
