@@ -1,7 +1,13 @@
 <h1> About Me 👀 </h1>
 
-Hi!
-- 🌱 I’m currently learning **react and ruby**
+Heyyy!
+- 🌱 I’m currently learning **AI/ML**
+
+- 🎓 Btech CSE AI Student at **Gururgam University** ~ 2nd year
+
+- 💻  Working at Zapro.ai ~ **FullStack Engineer** (React + Ruby on Rails)
+
+- 🎯 Professional Working Experience: around **2 years** | Total Experience: **4 years**
 
 - 👯 I’m looking to collaborate on **cool projects**
 
@@ -25,6 +31,8 @@ Hi!
 <img src="https://img.shields.io/badge/JSON-%23FFD700?style=for-the-badge&logo=json&logoColor=black" alt="JSON">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+<img src="https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails">
 <img src="https://img.shields.io/badge/Java-%23B07219.svg?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
