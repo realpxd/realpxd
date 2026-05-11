@@ -5,9 +5,9 @@ Heyyy!
 
 - 🎓 Btech CSE AI Student at **Gururgam University** ~ 2nd year
 
-- 💻  Working at Zapro.ai ~ **FullStack Engineer** (React + Ruby on Rails)
+- 💻  Worked at Zapro.ai ~ **FullStack Engineer** (React + Ruby on Rails)
 
-- 🎯 Professional Working Experience: around **2 years** | Total Experience: **4 years**
+- 🎯 Professional Working Experience: **2 years** | Total Experience: **4 years**
 
 - 👯 I’m looking to collaborate on **cool projects**
 
