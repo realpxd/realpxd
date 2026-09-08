@@ -3,7 +3,7 @@
 Heyyy!
 - 🌱 I’m currently learning **AI/ML**
 
-- 🎓 Btech CSE AI Student at **Gururgam University** ~ 2nd year
+- 🎓 Btech CSE AI Student at **Gururgam University** ~ 3rd year
 
 - 💻  Worked at Zapro.ai ~ **FullStack Engineer** (React + Ruby on Rails)
 
